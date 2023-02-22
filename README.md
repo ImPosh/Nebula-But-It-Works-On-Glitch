@@ -29,4 +29,4 @@ Table of contents
 
 ## Quick & Easy Deployment Options
 
-</a>[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/{user}/{repository}https://github.com/NebulaServices/Nebula)
+</a>[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/remix/puffy-assorted-truffle?path=README.md%3A1%3A0)
