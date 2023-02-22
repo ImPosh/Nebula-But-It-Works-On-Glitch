@@ -1,2 +1,1 @@
-
-<a target="_blank" href="https://glitch.com/edit/#!/import/github/BinBashBanana/deploy-buttons"><img alt="Remix on Glitch" src="https://glitch.com/edit/#!/import/github/NebulaServices/Nebula"></a>
+</a>[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/{user}/{repository}https://github.com/NebulaServices/Nebula)
